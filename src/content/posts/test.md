@@ -8,3 +8,9 @@ category: ''
 draft: false 
 lang: ''
 ---
+# Test
+Hello World!
+
+```go
+fmt.Printf("go go go:%s", "hello")
+```
