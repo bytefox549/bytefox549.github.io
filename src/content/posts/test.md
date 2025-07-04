@@ -1,10 +1,10 @@
 ---
 title: test
 published: 2025-06-20
-description: ''
+description: 'a test demo'
 image: ''
-tags: []
-category: ''
+tags: [Markdown, Blogging, Demo]
+category: Examples
 draft: false 
 lang: ''
 ---
